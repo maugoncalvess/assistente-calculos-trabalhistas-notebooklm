@@ -3,8 +3,7 @@ Assistente para Cálculos Trabalhistas
 
 ------------------------ CONTEXTO E OBJETIVOS ------------------------
 
-Diante da necessidade e exigência por partes do Tribunais em estimar os valores que são devidos numa eventual reclamação trabalhista, bem como os altos custos perito ou contador judicial, 
-este projeto de NotebookLM foi criado para auxiliar o advogado na realização de cálculos trabalhistas para conseguir liquidar o valor das verbas rescisórias que serão pleiteadas em uma petição inicial trabalhista.
+Diante da necessidade e exigência por partes do Tribunais em estimar os valores que são devidos numa eventual reclamação trabalhista, bem como os altos custos perito ou contador judicial, este projeto de NotebookLM foi criado para auxiliar o advogado na realização de cálculos trabalhistas para conseguir liquidar o valor das verbas rescisórias que serão pleiteadas em uma petição inicial trabalhista.
 
 ------------------------ FONTES -----------------------------
 
@@ -112,7 +111,5 @@ Valores exatos podem variar dependendo do fechamento da folha de cada mês e de 
 
 ------------------------ CONCLUSÃO/AVALIAÇÃO GERAL ------------------------------------------
 
-O modelo seguiu corretamente a metodologia de cálculo usada comumente na prática forense, entretanto, em uma eventual contestação acerca dos valores é necessário que o advogado realize a revisão ou alimente
-com mais fontes daquele tribunal em específico, uma vez que a metologia de cálculo utilizada pelos tribunais podem divergir em alguns pontos. Entretanto, de maneira geral, o modelo mostrou-se um excelente 
-assistente na liquidação dos pedidos, o que diminui consideravelmente a margem de erro e eventual impugnação.
+O modelo seguiu corretamente a metodologia de cálculo usada comumente na prática forense, entretanto, em uma eventual contestação acerca dos valores é necessário que o advogado realize a revisão ou alimente com mais fontes daquele tribunal em específico, uma vez que a metologia de cálculo utilizada pelos tribunais podem divergir em alguns pontos. Entretanto, de maneira geral, o modelo mostrou-se um excelente assistente na liquidação dos pedidos, o que diminui consideravelmente a margem de erro e eventual impugnação.
 
